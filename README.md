@@ -9,7 +9,6 @@
 - 👨‍💻 Most of my projects are available at [https://jolution.de](https://jolution.de)
 - 📝 I regularly write articles on [medium](https://medium.com/@jolution), [dev.to](https://dev.to/jolution)
 - 💬 Ask me about **webdevelopment**
-- 📫 How to reach me **info@jolution.de**
 - 📄 Know about my experiences [https://www.linkedin.com/in/julian-kasimir/](https://www.linkedin.com/in/julian-kasimir/)
 
 - ⚡ Fun fact **I drink a lot of Yerba-Mate**
