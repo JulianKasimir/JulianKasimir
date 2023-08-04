@@ -22,7 +22,7 @@
 <a href="https://stackoverflow.com/users/14331711" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="14331711" height="30" width="40" /></a>
 <a href="https://instagram.com/jolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jolution" height="30" width="40" /></a>
 <a href="https://medium.com/@jolution" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@jolution" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucjgc1yl9eqtcwgojgv-68ha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjgc1yl9eqtcwgojgv-68ha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@jolutionDE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucjgc1yl9eqtcwgojgv-68ha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
