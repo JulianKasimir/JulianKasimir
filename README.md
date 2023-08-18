@@ -1,5 +1,5 @@
 # Hi 👋, I'm Julian
-## A passionate web developer from Germany
+## A passionate frontend developer from Germany
 
 <a href="https://twitter.com/jolutionde" target="blank"><img src="https://img.shields.io/twitter/follow/jolutionde?logo=twitter&style=for-the-badge" alt="jolutionde" /></a>
 
@@ -8,7 +8,7 @@
 <!--- 👯 I’m looking to collaborate -->
 - 👨‍💻 Most of my projects are available at [https://jolution.de](https://jolution.de)
 - 📝 I regularly write articles on [medium](https://medium.com/@jolution), [dev.to](https://dev.to/jolution)
-- 💬 Ask me about **webdevelopment**
+- 💬 Ask me about **frontend development**
 - 📄 Know about my experiences [https://www.linkedin.com/in/julian-kasimir/](https://www.linkedin.com/in/julian-kasimir/)
 
 - ⚡ Fun fact **I drink a lot of Yerba-Mate**
