@@ -1,3 +1,5 @@
+<img src="banner.jpg">
+
 # Hi 👋, I'm Julian
 ## A passionate frontend developer from Germany
 
