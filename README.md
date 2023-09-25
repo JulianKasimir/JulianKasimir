@@ -3,20 +3,17 @@
   <img decoding="async" id="screenshot" src="" alt="Bildbeschreibung" />
 </picture>
 
-
 # Hi 👋, I'm Julian
 ## A passionate frontend developer from Germany
 
 <a href="https://twitter.com/jolutionde" target="blank"><img src="https://img.shields.io/twitter/follow/jolutionde?logo=twitter&style=for-the-badge" alt="jolutionde" /></a>
 
 - 🔭 I’m currently working on a Angular Webapp and a Nuxt3 Website
-- 🌱 I’m currently learning **Angular**
-<!--- 👯 I’m looking to collaborate -->
+- 🌱 I’m currently learning **Angular** and **DevOps**
 - 👨‍💻 Most of my projects are available at [https://jolution.de](https://jolution.de)
-- 📝 I regularly write articles on [medium](https://medium.com/@jolution), [dev.to](https://dev.to/jolution)
+<!--- 📝 I regularly write articles on [medium](https://medium.com/@jolution), [dev.to](https://dev.to/jolution)-->
 - 💬 Ask me about **frontend development**
 - 📄 Know about my experiences [https://www.linkedin.com/in/julian-kasimir/](https://www.linkedin.com/in/julian-kasimir/)
-
 - ⚡ Fun fact **I drink a lot of Yerba-Mate**
 
 <h3 align="left">Connect with me:</h3>
