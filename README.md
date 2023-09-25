@@ -1,4 +1,6 @@
-<img src="banner.jpg">
+<picture>
+  <source srcset="banner.jpg" media="(prefers-color-scheme: dark)" />
+</picture>
 
 # Hi 👋, I'm Julian
 ## A passionate frontend developer from Germany
