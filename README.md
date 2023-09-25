@@ -1,6 +1,8 @@
 <picture>
   <source srcset="banner.jpg" media="(prefers-color-scheme: dark)" />
+  <img decoding="async" id="screenshot" src="" alt="Bildbeschreibung" />
 </picture>
+
 
 # Hi 👋, I'm Julian
 ## A passionate frontend developer from Germany
