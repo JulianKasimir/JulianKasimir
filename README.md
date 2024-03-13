@@ -8,7 +8,7 @@
 
 <!--<a href="https://twitter.com/jolutionde" target="blank"><img src="https://img.shields.io/twitter/follow/jolutionde?logo=twitter&style=for-the-badge" alt="jolutionde" /></a>-->
 
-- 🔭 I’m currently working on a Angular
+- 🔭 I’m currently working on Applications based on Angular
 - 🌱 I’m currently learning **Angular** and **modern CSS**
 - 👨‍💻 Some of my projects are available at [https://jolution.de](https://jolution.de)
 <!--- 📝 I regularly write articles on [medium](https://medium.com/@jolution), [dev.to](https://dev.to/jolution)-->
