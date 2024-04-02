@@ -1,6 +1,11 @@
-<picture>
+<!--<picture>
   <source srcset="banner.jpg" media="(prefers-color-scheme: dark)" />
   <img decoding="async" id="screenshot" src="" alt="Bildbeschreibung" />
+</picture>-->
+
+<picture>
+  <source srcset="banner.jpg"/>
+  <img decoding="async" id="screenshot" src="" alt="Jolution" />
 </picture>
 
 # Hi 👋, I'm Julian
