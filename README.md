@@ -9,7 +9,7 @@
 </picture>
 
 # Hi 👋, I'm Julian
-## A passionate frontend developer from Germany
+## Senior Frontend Developer from Germany
 
 <!--<a href="https://twitter.com/jolutionde" target="blank"><img src="https://img.shields.io/twitter/follow/jolutionde?logo=twitter&style=for-the-badge" alt="jolutionde" /></a>-->
 - 🔭 I’m currently working on [TODO NUKEM](https://github.com/jolution/todo-nukem) and Applications based on Angular
